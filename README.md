@@ -5,3 +5,5 @@ Alur:
 satu
 dua
 tiga tiga
+empat
+lima
